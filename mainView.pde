@@ -9,9 +9,9 @@ button btnShowDeaths;
 void setup() {
   size(1920, 1080);
     
-  btnShowCases = new button(1300, 300, 290, 50, "Show cases");
-  btnShowDeaths = new button(1610, 300, 290, 50, "Show deaths");
-  btnShowAll = new button(1300, 370, 290, 50, "Show all");
+  btnShowCases = new button(1300, 350, 290, 50, "Show cases");
+  btnShowDeaths = new button(1610, 350, 290, 50, "Show deaths");
+  btnShowAll = new button(1300, 420, 290, 50, "Show all");
  
 }
 
